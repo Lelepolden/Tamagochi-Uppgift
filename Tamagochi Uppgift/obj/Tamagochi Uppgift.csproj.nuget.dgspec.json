@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj": {}
+    "c:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj": {
+    "c:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj",
+        "projectUniqueName": "c:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj",
         "projectName": "Tamagochi Uppgift",
-        "projectPath": "C:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj",
+        "projectPath": "c:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\Tamagochi Uppgift.csproj",
         "packagesPath": "C:\\Users\\leopold.seidenglanz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\obj\\",
+        "outputPath": "c:\\Users\\leopold.seidenglanz\\Documents\\Prog2\\Tamagochi Uppgift\\Tamagochi Uppgift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leopold.seidenglanz\\AppData\\Roaming\\NuGet\\NuGet.Config"

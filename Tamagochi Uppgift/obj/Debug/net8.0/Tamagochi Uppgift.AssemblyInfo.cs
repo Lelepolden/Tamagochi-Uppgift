@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tamagochi Uppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95696914e5fcea8bfb0073fe27496f52200f86ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tamagochi Uppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tamagochi Uppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
